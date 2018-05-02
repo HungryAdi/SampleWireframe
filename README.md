@@ -1,5 +1,5 @@
 # Sample Wireframe
-To demonstrate my ability to perform the core competencies required in the Anki Product Management Internship, I have created User Stories, Acceptance Criteria and a Wireframe for a website based on a prompt. The project prompt is about a topic that is close to home for me given that I have the opportunity to be able to observe how elderly people are treated in my homecountry of India vs. USA
+To demonstrate my ability to perform the core competencies required in the Anki Product Management Internship, I have created User Stories, Acceptance Criteria and a Wireframe for a website based on a prompt. The project prompt is about a topic that is close to home for me given that I have the opportunity to observe how elderly people are treated in my homecountry of India vs. USA.
 
 ## Product Prompt
 ### Problem:
@@ -11,7 +11,7 @@ To demonstrate my ability to perform the core competencies required in the Anki 
 * They need to listen to the advise of those that have lived in the previous generations. This is something not taught in schools.
 
 ### Solution:
-* A low-cost nonprofit that connects honors high school students with elderly people need a hand in hoe care and want the company.
+* A low-cost nonprofit that connects honors high school students with elderly people need a hand in home care and want the company.
 * Facilitate background checks for all volunteers and staff.
 * Raise funds through community outreach and sponsorships, and through out-of-state families of the elderly we are helping.
 
